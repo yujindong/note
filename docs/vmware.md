@@ -3,7 +3,7 @@
 ## 设置固定ip
 修改 /Library/Preferences/VMware Fusion/vmnet8/dhcpd.conf
 
-在下面的信息后边加入配置
+在下面的信息后边加入配置  
 ####### VMNET DHCP Configuration. End of "DO NOT MODIFY SECTION" #######
 ```
 	host osname {
